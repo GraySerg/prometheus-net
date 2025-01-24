@@ -8,8 +8,7 @@ This is a .NET library for instrumenting your applications and exporting metrics
 
 The library targets the following runtimes (and newer):
 
-* .NET Framework 4.6.2
-* .NET 6.0
+* .NET 8.0, 9.0
 
 # Table of contents
 
